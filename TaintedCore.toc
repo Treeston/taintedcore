@@ -1,0 +1,5 @@
+## Interface: 20502
+## Title: TaintedCore
+## Notes: Announces Tainted Core throwing; no configuration necessary
+
+TaintedCore.lua
